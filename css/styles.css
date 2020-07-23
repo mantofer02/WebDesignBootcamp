@@ -1,0 +1,30 @@
+body {
+    background-color: paleturquoise;            
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 30%;
+}
+
+h1 {
+    color: #206a5d;
+}
+
+h2 {
+    color: #206a5d;
+}
+
+h3 {
+    color: #206a5d;
+}
+
+img {
+
+    height: 250px;
+}
