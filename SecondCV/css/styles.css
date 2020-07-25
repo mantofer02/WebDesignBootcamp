@@ -1,3 +1,16 @@
 body {
-    background-color: darkseagreen;
+    background-color: none;
+    display: block;
+    
+    /* Es para hacerle override al del browser */
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    
+}
+
+div {
+    background-color: #f9f7f7;
 }
