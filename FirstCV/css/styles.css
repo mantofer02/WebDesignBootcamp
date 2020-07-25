@@ -16,9 +16,14 @@ h1 {
     color: #206a5d;
 }
 
+
+
 h2 {
     color: #206a5d;
 }
+
+
+
 
 h3 {
     color: #206a5d;
@@ -27,4 +32,17 @@ h3 {
 img {
 
     height: 250px;
+}
+
+img:hover {
+    background-color: gold;
+    height: 250px;
+}
+
+
+
+/* Class Tag*/
+
+.imagenCircular {
+    border-radius: 100%;
 }
