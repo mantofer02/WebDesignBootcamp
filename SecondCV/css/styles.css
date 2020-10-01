@@ -23,7 +23,8 @@ h2 {
 }
 
 h3 {
-    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Chalkduster, fantasy', sans-serif;
+    color: #66BFBF;
 }
 
 .top-container {
@@ -38,7 +39,26 @@ h3 {
 }
 
 .bottom-container {
-    
+    margin: auto auto auto auto;    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 150px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer-gif{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.working-gif{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
 }
 
 .top-cloud {
