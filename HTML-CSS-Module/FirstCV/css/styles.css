@@ -1,0 +1,49 @@
+body {
+    background-color: paleturquoise;  
+    margin: 0;          
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 30%;
+}
+
+h1 {
+    color: #206a5d;
+}
+
+
+
+h2 {
+    color: #206a5d;
+}
+
+
+
+h3 {
+    color: #206a5d;
+}
+
+img {
+
+    height: 250px;
+}
+
+img:hover {
+    background-color: gold;
+    height: 250px;
+}
+
+
+
+/* Class Tag*/
+
+.imagenCircular {
+    border-radius: 100%;
+}
