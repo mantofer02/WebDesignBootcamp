@@ -18,6 +18,20 @@ h1 {
     font-weight: 900;
 }
 
+h2 {
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 3rem;
+}
+
+h3 {
+   font-weight: bold;
+}
+
+p {
+    color: #8f948f
+}
+
 .navbar {
     padding: 0 0 4.5rem;
 }
@@ -45,4 +59,48 @@ h1 {
 .title-image {
     width: 60%;
     transform: rotate(15deg);
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.features-content {
+    text-align: center;
+    padding: 5%;
+}
+
+.features-icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.features-icon:hover {
+    color: #c94d3d;
+    margin-bottom: 1rem;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    color: #ffffff;
+
+    background-color:#ef8172;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
 }
